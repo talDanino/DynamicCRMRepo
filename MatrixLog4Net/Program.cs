@@ -37,7 +37,7 @@ namespace MatrixLog4Net
 
             watch.Stop();
 
-            Console.WriteLine($"Execution Time: {watch.ElapsedMilliseconds} ms");
+            Console.WriteLine($"Loop Execution Time: {watch.ElapsedMilliseconds} ms");
 
             log.Info("");
         }
