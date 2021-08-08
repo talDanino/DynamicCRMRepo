@@ -1,0 +1,10 @@
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\bin\Debug\MatrixLog4Net.exe.config
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\bin\Debug\MatrixLog4Net.exe
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\bin\Debug\MatrixLog4Net.pdb
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\obj\Debug\MatrixLog4Net.csproj.CoreCompileInputs.cache
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\obj\Debug\MatrixLog4Net.exe
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\obj\Debug\MatrixLog4Net.pdb
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\bin\Debug\log4net.dll
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\bin\Debug\log4net.xml
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\obj\Debug\MatrixLog4Net.csproj.CopyComplete
+C:\Users\Danino\source\repos\MatrixLog4Net\MatrixLog4Net\obj\Debug\MatrixLog4Net.csprojAssemblyReference.cache
